@@ -1,12 +1,19 @@
-# React + Vite
+# 🌐 Rozhak's Developer Portfolio
+Welcome to my modern and responsive personal portfolio, built using **React + Vite** ⚛️. This portfolio serves as a showcase of my work and expertise as a **Backend Developer** 💻, where I focus on creating robust server-side applications, a **Machine Learning Enthusiast** 🤖, exploring innovative algorithms and data-driven solutions, and an **Android Developer** 📱, crafting user-friendly mobile applications. Each section highlights my projects, skills, and achievements, providing insights into my professional journey. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deployed on [Vercel](https://vercel.com/) for lightning-fast performance ⚡
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
+I’m using ⚛️ React.js with Vite for frontend development, supported by 🎨 Tailwind CSS for styling. For API calls, I utilize 🔗 Axios, and I incorporate animations with 💡 Framer Motion. Currently, I’m working on the 🧠 Backend API using Flask. This project is deployed on 📦 [Vercel](https://vercel.com).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 Features
+The project features a 🌟 Landing Page with a clear CTA, an informative 👤 About Me section, and a 📂 Dynamic Project Showcase. It also includes a 🎓 Certificate Gallery powered by an API, a functional 📬 Contact Form that posts to the backend, and a 🌙 Dark/Light Mode for user preference. Additionally, the design is ✅ Responsive on all devices.
 
-## Expanding the ESLint configuration
+## 🔗 Live Website
+Visit here 👉 [https://rozhak-dev.vercel.app/](https://rozhak-dev.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+![Preview](https://github.com/user-attachments/assets/51828f1f-c9be-43b7-bc34-bda0ada3f878)
+
+## 📄 License
+This project is licensed under the **MIT License**. This means you are free to use, modify, and distribute the code, as long as you include the original license in any copies of the software that you distribute. For more details, please refer to the [LICENSE](LICENSE) file.
