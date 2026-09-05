@@ -1,19 +1,119 @@
-# 🌐 Rozhak's Developer Portfolio
-Welcome to my modern and responsive personal portfolio, built using **React + Vite** ⚛️. This portfolio serves as a showcase of my work and expertise as a **Backend Developer** 💻, where I focus on creating robust server-side applications, a **Machine Learning Enthusiast** 🤖, exploring innovative algorithms and data-driven solutions, and an **Android Developer** 📱, crafting user-friendly mobile applications. Each section highlights my projects, skills, and achievements, providing insights into my professional journey. 
+# Rozhak.dev ✨
 
-Deployed on [Vercel](https://vercel.com/) for lightning-fast performance ⚡
+![GitHub Repo Stars](https://img.shields.io/github/stars/davin-manzi/rozhak.dev?style=social) ![GitHub Issues](https://img.shields.io/github/issues/davin-manzi/rozhak.dev) ![GitHub Forks](https://img.shields.io/github/forks/davin-manzi/rozhak.dev) ![GitHub License](https://img.shields.io/github/license/davin-manzi/rozhak.dev)
 
-## 🚀 Tech Stack
-I’m using ⚛️ React.js with Vite for frontend development, supported by 🎨 Tailwind CSS for styling. For API calls, I utilize 🔗 Axios, and I incorporate animations with 💡 Framer Motion. Currently, I’m working on the 🧠 Backend API using Flask. This project is deployed on 📦 [Vercel](https://vercel.com).
+Welcome to **Rozhak.dev**, a modern personal portfolio created with React and Vite. This portfolio showcases my skills, certificates, and side projects in backend development, machine learning, and mobile development.
 
-## 📁 Features
-The project features a 🌟 Landing Page with a clear CTA, an informative 👤 About Me section, and a 📂 Dynamic Project Showcase. It also includes a 🎓 Certificate Gallery powered by an API, a functional 📬 Contact Form that posts to the backend, and a 🌙 Dark/Light Mode for user preference. Additionally, the design is ✅ Responsive on all devices.
+## Table of Contents
 
-## 🔗 Live Website
-Visit here 👉 [https://rozhak-dev.vercel.app/](https://rozhak-dev.vercel.app/)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+- [Visit Releases](#visit-releases)
 
-## 📸 Preview
-![Preview](https://github.com/user-attachments/assets/51828f1f-c9be-43b7-bc34-bda0ada3f878)
+## Features
 
-## 📄 License
-This project is licensed under the **MIT License**. This means you are free to use, modify, and distribute the code, as long as you include the original license in any copies of the software that you distribute. For more details, please refer to the [LICENSE](LICENSE) file.
+- **Modern Design**: The portfolio features a clean and modern design that highlights my work effectively.
+- **Responsive Layout**: The site is fully responsive, ensuring it looks great on all devices.
+- **Interactive Elements**: Users can interact with various sections to learn more about my projects and skills.
+- **Showcase of Skills**: The portfolio displays my expertise in backend, machine learning, and mobile development.
+
+## Technologies Used
+
+This project utilizes a range of technologies to create a seamless experience:
+
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool and development server for modern web projects.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **JavaScript**: The primary programming language used throughout the project.
+- **Vercel**: A platform for frontend frameworks and static sites, designed to integrate with headless content management systems.
+
+## Getting Started
+
+To get started with **Rozhak.dev**, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/davin-manzi/rozhak.dev.git
+   cd rozhak.dev
+   ```
+
+2. **Install Dependencies**:
+   Use npm or yarn to install the required packages.
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Run the Development Server**:
+   Start the development server to see the project in action.
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. **Open in Browser**:
+   Navigate to `http://localhost:3000` in your browser to view the portfolio.
+
+## Project Structure
+
+Here’s a brief overview of the project structure:
+
+```
+rozhak.dev/
+├── public/
+│   ├── images/
+│   ├── favicon.ico
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── App.tsx
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
+```
+
+- **public/**: Contains static assets such as images and the HTML file.
+- **src/**: The main source code of the application.
+  - **components/**: Reusable React components.
+  - **pages/**: Individual pages of the portfolio.
+  - **styles/**: CSS or SCSS files for styling the application.
+
+## How to Contribute
+
+Contributions are welcome! If you want to help improve **Rozhak.dev**, please follow these steps:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of the page.
+2. **Create a New Branch**: 
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Make Your Changes**: Edit files and make improvements.
+4. **Commit Your Changes**:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+5. **Push to Your Fork**:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+6. **Create a Pull Request**: Go to the original repository and create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Visit Releases
+
+For the latest updates and releases, visit the [Releases section](https://github.com/davin-manzi/rozhak.dev/releases). Here, you can download the latest version and execute it to see the features in action.
+
+## Conclusion
+
+Thank you for visiting **Rozhak.dev**! I hope you find this portfolio insightful. If you have any questions or feedback, feel free to reach out.
